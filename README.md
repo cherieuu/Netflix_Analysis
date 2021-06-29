@@ -93,3 +93,6 @@ https://www.kaggle.com/adityakadiwal/netflix-movies-and-tv-shows
 
 
 ### 넷플릭스 분석 보고서 참조 데이터셋 - 기존 보고서를 이용한 새로운 데이터셋
+
+# Git Hub 관리 방식 
+https://gmlwjd9405.github.io/2017/10/28/how-to-collaborate-on-GitHub-2.html
